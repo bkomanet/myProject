@@ -2,3 +2,5 @@ Hello There!
 
 This is yet another change to the file - I'll be putting this into our second commit
 
+This is another change for our Version 2.0 to demonstrate GIT-GUI
+
